@@ -1,0 +1,23 @@
+{
+  "cities": [
+    {
+      "country": "india",
+      "city": "pune",
+      "population": "35435",
+      "id": 1
+    },
+    {
+      "country": "",
+      "city": "mumbai",
+      "population": "4772",
+      "id": 2
+    },
+    {
+      "country": "US",
+      "city": "efkjdfn",
+      "population": "244",
+      "id": 3
+    }
+  ],
+  "countries": []
+}
